@@ -72,4 +72,3 @@ Contributions to NeoMeta are welcome and appreciated! We value community input a
 # License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/ludo53/NeoMeta/blob/main/LICENSE) file for details.
-.
